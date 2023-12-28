@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645859de4e2419b48a5427726dea4b54, type: 3}
+  m_Name: ItemsDataSO
+  m_EditorClassIdentifier: 
+  <ItemDatas>k__BackingField:
+  - <Tier>k__BackingField: 1
+    <Score>k__BackingField: 1
+    <ItemPrefab>k__BackingField: {fileID: 4657514291970806392, guid: feca138cbcf325e49b80c81bca39d21f, type: 3}
+  - <Tier>k__BackingField: 2
+    <Score>k__BackingField: 2
+    <ItemPrefab>k__BackingField: {fileID: 7327310755939918462, guid: 28b27402104dab346945bc90714c0360, type: 3}
+  - <Tier>k__BackingField: 3
+    <Score>k__BackingField: 4
+    <ItemPrefab>k__BackingField: {fileID: 3481351166972176175, guid: 11593b83ac6037a4b822b221ae70b8bf, type: 3}
+  - <Tier>k__BackingField: 4
+    <Score>k__BackingField: 8
+    <ItemPrefab>k__BackingField: {fileID: 2411162645690863566, guid: a937f48a9a2fcf94bb1acc9316b17c60, type: 3}
+  - <Tier>k__BackingField: 5
+    <Score>k__BackingField: 16
+    <ItemPrefab>k__BackingField: {fileID: 8573929515200580641, guid: c125e4973d8cb744a97a7067b9f120e6, type: 3}
+  - <Tier>k__BackingField: 6
+    <Score>k__BackingField: 32
+    <ItemPrefab>k__BackingField: {fileID: 2744648141153133586, guid: cfd76e1db818ca34c9fdbd8dbbe2b86b, type: 3}
+  - <Tier>k__BackingField: 7
+    <Score>k__BackingField: 64
+    <ItemPrefab>k__BackingField: {fileID: 6214771881442012454, guid: 651f1cdcb42d6cf43b48c54796c96540, type: 3}
+  - <Tier>k__BackingField: 8
+    <Score>k__BackingField: 128
+    <ItemPrefab>k__BackingField: {fileID: 354539366753902519, guid: 55dc74bc530f1ef4688b63f47fca209a, type: 3}
